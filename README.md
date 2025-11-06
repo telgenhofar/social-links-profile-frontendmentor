@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/telgenhofar/social-links-profile-frontendmentor)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://telgenhofar.github.io/social-links-profile-frontendmentor/)
 
 ## My process
 
