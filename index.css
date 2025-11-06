@@ -34,9 +34,53 @@ main {
     background-color: var(--grey-800);
     width: 350px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
 }
 
 .profile-picture {
+    margin: 20px;
     border-radius: 50%;
     width: 100px;
+}
+
+.profile-name {
+    font-size: 24px;
+}
+
+.profile-location {
+    margin: 5px;
+    font-size: 14px;
+    color: var(--green)
+}
+
+.profile-description {
+    margin: 10px
+}
+
+.social-btn {
+    width: 90%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: var(--grey-700);
+    color: var(--white);
+    border: none;
+}
+
+.social-btn:hover {
+    background-color: var(--green);
+    color: var(--grey-800);
+}
+
+footer {
+  text-align: center;
+  font-size: 11px;
+  padding: 10px;
+}
+
+footer a:link {
+    color: #46b9e0;
 }
